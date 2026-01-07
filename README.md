@@ -60,11 +60,11 @@ The program reads a **24-bit BMP image file**, extracts pixel information, conve
 
 ## Constraints Followed
 
-✔ No use of `Pillow`, `OpenCV`, or any image libraries
-✔ No built-in image processing functions
-✔ Only loops, conditionals, and basic Python
-✔ Output strictly displayed in terminal
-✔ Manual ASCII mapping logic
+> No use of `Pillow`, `OpenCV`, or any image libraries
+> No built-in image processing functions
+> Only loops, conditionals, and basic Python
+> Output strictly displayed in terminal
+> Manual ASCII mapping logic
 
 
 
