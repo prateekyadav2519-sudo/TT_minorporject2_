@@ -1,8 +1,6 @@
-Here’s a clean, professional **README.md** you can directly use on your GitHub repository. It’s written in a technical-training style and clearly explains all constraints of **Minor Project 2**.
 
----
 
-# ASCII Image Generator in Python (Minor Project – 2)
+# TECHNICAL TRAINING (Minor Project – 2)
 
 ## Project Title
 
